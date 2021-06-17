@@ -1,0 +1,6 @@
+.vscode
+tmp
+.env
+__debug_bin
+config.json
+GoBot
